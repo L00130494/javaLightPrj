@@ -1,3 +1,6 @@
+
+/*author:Roshni*/
+
 import java.util.Scanner;
 
 public class calc
@@ -5,8 +8,7 @@ public class calc
 
        public static void main(String[] args)
        {
-              int num1, num2;
-
+              int num1, num2;   
               Scanner input =new Scanner(System.in);
               System.out.println("Enter Num 1: ");
               num1 = input.nextInt();
